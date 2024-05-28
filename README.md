@@ -57,6 +57,8 @@ This is the project folders and files structure
 
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/3ff79df9-a297-4e9d-ae34-91886b973319)
 
+### 2.1. Fonts
+
 How to load your personal **font files** in your application
 
 We copy the font files folder inside the res folder
@@ -80,12 +82,17 @@ Text(
 )
 ```
 
+### 2.2. Colors
+
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/0615882e-a6a9-4545-86ba-9bf633099d10)
 
 For **creating new Color** we use this **Material 3** tool: https://material-foundation.github.io/material-theme-builder/
 
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/b64d03b0-5d4d-4cd3-b536-bbb9323e85cf)
 
+After defining the color we select the option **Export**
+
+![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/5623d290-29b2-44b1-a9d8-183ec555cdbd)
 
 
 ## 3. 
