@@ -10,10 +10,6 @@ Tabs en Android Jetpack Compose: https://www.youtube.com/watch?v=V1NricS6cbo
 
 ## 1. Your first User Interface (UI) with Android Jetpack Compose. How to use: Text, Images, Rows and Columns
 
-This is the project folders and files structure
-
-![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/366c6208-06ed-49fd-a91d-f14e1891a6b8)
-
 For step by step tutorial see this youtube video: https://www.youtube.com/watch?v=hfVv4tTOZlI
 
 ```kotlin
@@ -48,6 +44,12 @@ Column(
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/52809ac2-282b-44d8-8542-1c15cf188d92)
 
 ## 2. How to create a SplashScreen using Material 3 and Android Jetpack Compose
+
+For step by step tutorial see this youtube video: https://www.youtube.com/watch?v=vHfdoUqimk4
+
+This is the project folders and files structure
+
+![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/366c6208-06ed-49fd-a91d-f14e1891a6b8)
 
 ```kotlin
 
