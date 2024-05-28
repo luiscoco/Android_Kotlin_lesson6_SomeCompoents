@@ -82,7 +82,9 @@ Text(
 
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/0615882e-a6a9-4545-86ba-9bf633099d10)
 
-For creating new Color we use this Material 3 tool: https://material-foundation.github.io/material-theme-builder/
+For **creating new Color** we use this **Material 3** tool: https://material-foundation.github.io/material-theme-builder/
+
+![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/b64d03b0-5d4d-4cd3-b536-bbb9323e85cf)
 
 
 
