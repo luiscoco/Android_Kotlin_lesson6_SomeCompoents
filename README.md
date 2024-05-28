@@ -67,7 +67,13 @@ Then we create a new **FontFamily** inside **ui/theme/Type.kt**
 
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/800e1788-482d-48ed-82eb-a46ec53f6760)
 
-Then 
+We can also define a new font **Typography** inside **ui/theme/Type.kt**
+
+![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/2a414208-78a5-4745-8a63-1efdbbe8675b)
+
+
+
+
 ## 3. 
 
 
