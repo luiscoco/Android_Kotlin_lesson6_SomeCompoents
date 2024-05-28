@@ -71,8 +71,16 @@ We can also define a new font **Typography** inside **ui/theme/Type.kt**
 
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/2a414208-78a5-4745-8a63-1efdbbe8675b)
 
+Now we can apply the new font style in the SplashScreen
 
+```kotlin
+Text(
+   text = "Welcome",
+   style = MaterialTheme.typography.titleLarge
+)
+```
 
+![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/0615882e-a6a9-4545-86ba-9bf633099d10)
 
 ## 3. 
 
