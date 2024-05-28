@@ -28,7 +28,15 @@ Column(
 	    fontSize = 48.sp	
 	 )
 	 Text("My second Text")
-
+	 Row(){
+             OutlineButton(onClick = { }) {
+		Text("My dog")
+             }
+             Spacer(modifier = Modifier.width(10.dp))
+             OutlineButton(onClick = { }) {
+		Text("My content")
+             }
+	}
       }
 }
 ```
