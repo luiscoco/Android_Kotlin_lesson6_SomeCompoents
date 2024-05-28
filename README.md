@@ -94,6 +94,13 @@ After defining the color we select the option **Export**
 
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/5623d290-29b2-44b1-a9d8-183ec555cdbd)
 
+We unzip the downloaded file and it contains three files: **Color.kt, Theme.kt and Type.kt**
+
+![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/c1e7a780-6e2b-494a-b987-8d4317dc5829)
+
+We copy the three files inside the package: **ui.theme**
+
+![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/3e3493b2-735d-40cf-830e-bae8f44f23a7)
 
 ## 3. 
 
