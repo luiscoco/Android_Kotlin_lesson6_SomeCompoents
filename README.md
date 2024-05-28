@@ -106,6 +106,12 @@ See how to define the **Font Type** and **Color** in a Text component
 
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/b07a40aa-9de6-4a14-98cc-8a1ea86e1296)
 
+### 2.3. Create a Launcher Actitivy
+
+![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/ca13a057-34d2-4661-a6f0-110a2c0a9221)
+
+
+
 ## 3. 
 
 
