@@ -57,7 +57,17 @@ This is the project folders and files structure
 
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/3ff79df9-a297-4e9d-ae34-91886b973319)
 
+How to load your personal **font files** in your application
 
+We copy the font files folder inside the res folder
+
+![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/714a2d44-01e5-427a-9627-97f3ccfce6fa)
+
+Then we create a new **FontFamily** inside **ui/theme/Type.kt**
+
+![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/800e1788-482d-48ed-82eb-a46ec53f6760)
+
+Then 
 ## 3. 
 
 
