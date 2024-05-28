@@ -43,7 +43,7 @@ Column(
 
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/52809ac2-282b-44d8-8542-1c15cf188d92)
 
-## 2. How to create a SplashScreen using Material 3 and Android Jetpack Compose
+## 2. How to create a SplashScreen using Material 3 (Colors, Fonts and Theme)
 
 For step by step tutorial see this youtube video: https://www.youtube.com/watch?v=vHfdoUqimk4
 
