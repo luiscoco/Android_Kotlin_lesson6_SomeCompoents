@@ -10,6 +10,8 @@ Tabs en Android Jetpack Compose: https://www.youtube.com/watch?v=V1NricS6cbo
 
 ## 1. Your first User Interface (UI) with Android Jetpack Compose. How to use: Text, Images, Rows and Columns
 
+For step by step tutorial see this youtube video: https://www.youtube.com/watch?v=hfVv4tTOZlI
+
 ```kotlin
 @Composable
 fun Elements(){
