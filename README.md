@@ -102,6 +102,10 @@ We copy the three files inside the package: **ui.theme**
 
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/3e3493b2-735d-40cf-830e-bae8f44f23a7)
 
+See how to define the **Font Type** and **Color** in a Text component
+
+![image](https://github.com/luiscoco/Android_Kotlin_lesson6_SomeCompoents/assets/32194879/b07a40aa-9de6-4a14-98cc-8a1ea86e1296)
+
 ## 3. 
 
 
